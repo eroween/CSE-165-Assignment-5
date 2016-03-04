@@ -18,8 +18,7 @@ Here is a list of the technical features we want to implement :
 3. Acceleration and deceleration of the orbital speeds.
 4. Zoom and focus camera on a specified celestial body.
 5. Celestial bodies selection to display information.
-6. Technologies : Unity 3D and ZSpace
 
-We will focus on making a fluid representation of the solar system.
+In order to do the project, we are going to use Unity 3D and the ZSpace. Moreover we will focus on making a fluid representation of the solar system.
 
 Due date : Thursday, March 3rd at 11:59pm
