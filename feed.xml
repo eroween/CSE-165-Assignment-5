@@ -5,8 +5,8 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 22:35:04 -0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 22:35:04 -0800</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2016 22:46:29 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 22:46:29 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -25,10 +25,9 @@
   &lt;li&gt;Acceleration and deceleration of the orbital speeds.&lt;/li&gt;
   &lt;li&gt;Zoom and focus camera on a specified celestial body.&lt;/li&gt;
   &lt;li&gt;Celestial bodies selection to display information.&lt;/li&gt;
-  &lt;li&gt;Technologies : Unity 3D and ZSpace&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;We will focus on making a fluid representation of the solar system.&lt;/p&gt;
+&lt;p&gt;In order to do the project, we are going to use Unity 3D and the ZSpace. Moreover we will focus on making a fluid representation of the solar system.&lt;/p&gt;
 
 &lt;p&gt;Due date : Thursday, March 3rd at 11:59pm&lt;/p&gt;
 </description>
