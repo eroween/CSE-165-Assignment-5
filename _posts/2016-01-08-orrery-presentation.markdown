@@ -1,8 +1,8 @@
 ---
 title:  "Orrery - a mechanical model of the solar system."
 date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [milestones]
+tags: [milestones]
 ---
 
 Hi !
