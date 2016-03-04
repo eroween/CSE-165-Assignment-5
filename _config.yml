@@ -1,0 +1,33 @@
+# Site settings
+title: 'Orrery'
+description: 'Final Project website for the CSE 165 course.'
+authors: 'Lewis Roger & Martin-Pierrat Louis'
+adv-description: 'a mechanical model of the solar system.'
+url: 'http://cse165-a5.louismartinpierrat.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
