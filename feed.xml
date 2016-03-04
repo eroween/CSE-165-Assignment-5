@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orrery</title>
+    <description>Final Project website for the CSE 165 course.</description>
+    <link>http://cse165-a5.louismartinpierrat.com//</link>
+    <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 03 Mar 2016 19:11:52 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 19:11:52 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Orrery - a mechanical model of the solar system.</title>
+        <description>&lt;p&gt;Hi !
+We are two extension student enrolled in the CSE 165 course at UC San Diego, our final project for this course is a galaxy viewer and we have called it “Orrery”.&lt;/p&gt;
+
+&lt;p&gt;“SHORT DESCRIPTION”&lt;/p&gt;
+
+&lt;p&gt;Here is a list of the technical features we want to implement :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Feature - 1&lt;/li&gt;
+  &lt;li&gt;Feature - 2&lt;/li&gt;
+  &lt;li&gt;Feature - 3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In order to add some fun in this project, we are going to use the ZSpace project :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d2n4wb9orp1vta.cloudfront.net/resources/images/cdn/cms/062013ADP_Feature_zSpaceFig2b.jpg&quot; alt=&quot;zspace illustration&quot; title=&quot;ZSpace illustration&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Due date : Thursday, March 3rd at 11:59pm&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 07:04:23 -0800</pubDate>
+        <link>http://cse165-a5.louismartinpierrat.com//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://cse165-a5.louismartinpierrat.com//2016/welcome-to-jekyll/</guid>
+        
+        <category>jekyll</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
