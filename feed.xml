@@ -5,8 +5,8 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Mar 2016 22:42:46 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2016 22:42:46 -0800</lastBuildDate>
+    <pubDate>Thu, 10 Mar 2016 22:57:12 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 22:57:12 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -17,6 +17,14 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/screenshot-unity.jpg&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;We have finished the solar system simulator. Planets, moon and comets are in orbit and rotating.&lt;/p&gt;
+
+&lt;p&gt;Features implemented :
+- Celestial bodies in orbit
+- Celestial bodies in rotation
+- Acceleration and deceleration of time.
+- Setting solar system to a specific state in future or past.
+- Orbit parameters can be changed in real time.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2016 14:04:23 -0800</pubDate>
         <link>http://cse165-a5.louismartinpierrat.com//2016/milestone-2/</link>
