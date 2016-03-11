@@ -5,9 +5,29 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 22:46:29 -0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 22:46:29 -0800</lastBuildDate>
+    <pubDate>Thu, 10 Mar 2016 22:42:46 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 22:42:46 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Milestone 2</title>
+        <description>&lt;p&gt;Hi,&lt;/p&gt;
+
+&lt;p&gt;Here is our progression on the project at the moment :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot-unity.jpg&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Mar 2016 14:04:23 -0800</pubDate>
+        <link>http://cse165-a5.louismartinpierrat.com//2016/milestone-2/</link>
+        <guid isPermaLink="true">http://cse165-a5.louismartinpierrat.com//2016/milestone-2/</guid>
+        
+        <category>milestones</category>
+        
+        
+        <category>milestones</category>
+        
+      </item>
     
       <item>
         <title>Orrery - a digital model of the solar system.</title>
@@ -31,7 +51,7 @@
 
 &lt;p&gt;Due date : Thursday, March 3rd at 11:59pm&lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 Jan 2016 07:04:23 -0800</pubDate>
+        <pubDate>Tue, 08 Mar 2016 07:04:23 -0800</pubDate>
         <link>http://cse165-a5.louismartinpierrat.com//2016/orrery-presentation/</link>
         <guid isPermaLink="true">http://cse165-a5.louismartinpierrat.com//2016/orrery-presentation/</guid>
         
