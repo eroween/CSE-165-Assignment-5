@@ -1,0 +1,13 @@
+---
+title:  "Milestone 2"
+date:   2016-03-10 22:04:23
+categories: [milestones]
+tags: [milestones]
+---
+
+Hi,
+
+Here is our progression on the project at the moment :
+
+![screenshot]({{ site.baseurl }}images/screenshot-unity.jpg)
+
