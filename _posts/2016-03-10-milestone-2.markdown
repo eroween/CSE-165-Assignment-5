@@ -5,15 +5,11 @@ categories: [milestones]
 tags: [milestones]
 ---
 
-Hi,
-
-Here is our progression on the project at the moment :
+We have finished the solar system simulator. Planets, moons and comets are in orbit and rotating.
 
 ![screenshot]({{ site.baseurl }}images/screenshot-unity.jpg)
 
-We have finished the solar system simulator. Planets, moons and comets are in orbit and rotating.
-
-Features implemented :
+Here is the list of the features actually implemented :
 
 - Celestial bodies in orbit
 - Celestial bodies in rotation
