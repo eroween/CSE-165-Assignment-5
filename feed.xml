@@ -5,21 +5,17 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Mar 2016 23:02:52 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2016 23:02:52 -0800</lastBuildDate>
+    <pubDate>Thu, 10 Mar 2016 23:05:25 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 23:05:25 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Milestone 2</title>
-        <description>&lt;p&gt;Hi,&lt;/p&gt;
-
-&lt;p&gt;Here is our progression on the project at the moment :&lt;/p&gt;
+        <description>&lt;p&gt;We have finished the solar system simulator. Planets, moons and comets are in orbit and rotating.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/screenshot-unity.jpg&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We have finished the solar system simulator. Planets, moons and comets are in orbit and rotating.&lt;/p&gt;
-
-&lt;p&gt;Features implemented :&lt;/p&gt;
+&lt;p&gt;Here is the list of the features actually implemented :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Celestial bodies in orbit&lt;/li&gt;
