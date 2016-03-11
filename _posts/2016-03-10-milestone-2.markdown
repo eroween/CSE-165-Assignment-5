@@ -11,3 +11,11 @@ Here is our progression on the project at the moment :
 
 ![screenshot]({{ site.baseurl }}images/screenshot-unity.jpg)
 
+We have finished the solar system simulator. Planets, moon and comets are in orbit and rotating.
+
+Features implemented :
+- Celestial bodies in orbit
+- Celestial bodies in rotation
+- Acceleration and deceleration of time.
+- Setting solar system to a specific state in future or past.
+- Orbit parameters can be changed in real time.
