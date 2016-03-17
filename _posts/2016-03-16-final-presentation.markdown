@@ -9,7 +9,7 @@ Hi,
 
 Here is our video for our orrery project :
 
-{% include youtube.html id='mGE7bhz5uRQ' %}
+{% include youtube.html id='SKNPG8h8ycM' %}
 
 Since the next post, we have implemented the 5 required interactions tasks :
 
@@ -19,16 +19,10 @@ Since the next post, we have implemented the 5 required interactions tasks :
 - travel
 - system control
 
-We can select a planet with a raycasted ray, using the ZSpace stylus.
+The selection part is done with a simple raycasting, starting from the end of the stylus to a maximum bound where our interface is implemented.
+The manipulation part is now activated when you have selected a planet and the button is pressed more than one second, when the manipulation state is entered, the planet will try to follow the stylus but the planet will stay on its orbit.
+The wayfinding part is done with a miniworld, in fact, a mini solar system that permit to totally understand where the planet is and how the others neighbourhood planet rotate.
+The travel part has been implemented with two different buttons, the first one is used to zoom on a specific planet system, the second one is used to unzoom into the parent planet system.
+We also have implemented two different button that help us to increase or decrease the time. When you will increase the time, the planet will rotate more speedly than before and at the opposite, when you will decrease the time the planet will move slowly. We can also decrease the time in order to go back in the time curvature, the planet will then go in the opposite direction.
 
-When the planet is selected, we can move the planet in its orbit by just staying pressed on the stylus button. The planet position will be set to the new position that we obtain with the intersection of the stylus on the plane.
-
-In order to always now were we are in the Solar System, we have a mini-world in movement in the front right side, this mini-world show only the parent system.
-
-We can travel between the differents planet, what we have implemented is pretty simple :
-
-    1. select the planet
-    2. Click the zoom button
-
-In order to go back to the parent planet, we just need to click on the unzoom button.
 
