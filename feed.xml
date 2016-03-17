@@ -5,15 +5,13 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Mar 2016 05:44:46 -0700</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 05:44:46 -0700</lastBuildDate>
+    <pubDate>Thu, 17 Mar 2016 05:47:24 -0700</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 05:47:24 -0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Orrery - Final Presentation</title>
-        <description>&lt;p&gt;Hi,&lt;/p&gt;
-
-&lt;p&gt;Here is our video for our orrery project :&lt;/p&gt;
+        <description>&lt;p&gt;Here is our last milestone for our orrery project, we will describe what we implemented illustrated with a small video of our project in use.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SKNPG8h8ycM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
