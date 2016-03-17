@@ -5,9 +5,7 @@ categories: [milestones]
 tags: [milestones]
 ---
 
-Hi,
-
-Here is our video for our orrery project :
+Here is our last milestone for our orrery project, we will describe what we implemented illustrated with a small video of our project in use.
 
 {% include youtube.html id='SKNPG8h8ycM' %}
 
