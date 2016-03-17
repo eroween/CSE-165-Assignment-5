@@ -25,4 +25,4 @@ The wayfinding part is done with a miniworld, in fact, a mini solar system that 
 The travel part has been implemented with two different buttons, the first one is used to zoom on a specific planet system, the second one is used to unzoom into the parent planet system.
 We also have implemented two different button that help us to increase or decrease the time. When you will increase the time, the planet will rotate more speedly than before and at the opposite, when you will decrease the time the planet will move slowly. We can also decrease the time in order to go back in the time curvature, the planet will then go in the opposite direction.
 
-
+The planet's orbit are calculated using the the six Keplerian orbital elements. We also take into account the planet's axial tilt for it's rotation.
