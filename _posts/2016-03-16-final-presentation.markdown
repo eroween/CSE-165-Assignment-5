@@ -19,11 +19,11 @@ Since the next post, we have implemented the 5 required interactions tasks :
 
 The selection part is done with a simple raycasting, starting from the end of the stylus to a maximum bound where our interface is implemented.
 
-The manipulation part is now activated when you have selected a planet and the button is pressed more than one second, when the manipulation state is entered, the planet will try to follow the stylus but the planet will stay on its orbit.
+The manipulation part is now activated when you have selected a planet and the button is pressed more than one second, when the manipulation state is entered, the planet will try to follow the stylus but the planet will stay on its orbit. When a planet is dragged by the stylus the time is warped so that the planet follows the stylus. If a planet is moved against it's orbit, the time moves in the past and all other planets move accordingly.
 
-The wayfinding part is done with a miniworld, in fact, a mini solar system that permit to totally understand where the planet is and how the others neighbourhood planet rotate.
+The wayfinding part is done with a miniworld, in fact, a mini solar system that permit to understand where the planet is and how the others neighbourhood planet rotate.
 
-The travel part has been implemented with two different buttons, the first one is used to zoom on a specific planet system, the second one is used to unzoom into the parent planet system.
+The travel part has been implemented with two different buttons, the first one is used to zoom on a specific planet system, the second one is used to unzoom into the parent system.
 
 We also have implemented two different button that help us to increase or decrease the time. When you will increase the time, the planet will rotate more speedly than before and at the opposite, when you will decrease the time the planet will move slowly. We can also decrease the time in order to go back in the time curvature, the planet will then go in the opposite direction.
 
