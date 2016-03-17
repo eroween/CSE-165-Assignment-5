@@ -5,8 +5,8 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Mar 2016 23:38:48 -0700</pubDate>
-    <lastBuildDate>Wed, 16 Mar 2016 23:38:48 -0700</lastBuildDate>
+    <pubDate>Wed, 16 Mar 2016 23:53:42 -0700</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 23:53:42 -0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -16,6 +16,31 @@
 &lt;p&gt;Here is our video for our orrery project :&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/mGE7bhz5uRQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Since the next post, we have implemented the 5 required interactions tasks :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;selection&lt;/li&gt;
+  &lt;li&gt;manipulation&lt;/li&gt;
+  &lt;li&gt;wayfinding&lt;/li&gt;
+  &lt;li&gt;travel&lt;/li&gt;
+  &lt;li&gt;system control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We can select a planet with a raycasted ray, using the ZSpace stylus.&lt;/p&gt;
+
+&lt;p&gt;When the planet is selected, we can move the planet in its orbit by just staying pressed on the stylus button. The planet position will be set to the new position that we obtain with the intersection of the stylus on the plane.&lt;/p&gt;
+
+&lt;p&gt;In order to always now were we are in the Solar System, we have a mini-world in movement in the front right side, this mini-world show only the parent system.&lt;/p&gt;
+
+&lt;p&gt;We can travel between the differents planet, what we have implemented is pretty simple :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. select the planet
+2. Click the zoom button
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In order to go back to the parent planet, we just need to click on the unzoom button.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Mar 2016 16:34:23 -0700</pubDate>
