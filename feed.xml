@@ -5,9 +5,29 @@
     <description>Final Project website for the CSE 165 course.</description>
     <link>http://cse165-a5.louismartinpierrat.com//</link>
     <atom:link href="http://cse165-a5.louismartinpierrat.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Mar 2016 23:22:58 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2016 23:22:58 -0800</lastBuildDate>
+    <pubDate>Wed, 16 Mar 2016 23:38:48 -0700</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 23:38:48 -0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Orrery - Final Presentation</title>
+        <description>&lt;p&gt;Hi,&lt;/p&gt;
+
+&lt;p&gt;Here is our video for our orrery project :&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/mGE7bhz5uRQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Wed, 16 Mar 2016 16:34:23 -0700</pubDate>
+        <link>http://cse165-a5.louismartinpierrat.com//2016/final-presentation/</link>
+        <guid isPermaLink="true">http://cse165-a5.louismartinpierrat.com//2016/final-presentation/</guid>
+        
+        <category>milestones</category>
+        
+        
+        <category>milestones</category>
+        
+      </item>
     
       <item>
         <title>Milestone 2</title>
